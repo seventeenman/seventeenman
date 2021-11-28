@@ -1,2 +1,2 @@
-### seventeen👨‍🚀
+### seventeen
 Redteamer && student
