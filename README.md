@@ -5,4 +5,8 @@ Redteamer && CTFer && Student
 
 [Blog Of SEVENTEEN](https://seventeenman.github.io/)
 
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270">
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270">
+</h2>
+
