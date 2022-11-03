@@ -1,9 +1,9 @@
 ### seventeen
 Redteamer && CTFer && Student
 
-<img align='right' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seventeenman&theme=nord_dark' width='270px'>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seventeenman&layout=compact&hide=css,scss,javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align='justify' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seventeenman&theme=nord_dark' width='280px'>
 
 [Blog Of SEVENTEEN](https://seventeenman.github.io/)
 
