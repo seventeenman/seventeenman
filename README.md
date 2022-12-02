@@ -1,6 +1,8 @@
 ### seventeen
 Redteamer && CTFer && Student
 
+最适合隐藏一棵树的地方，是森林。
+
 <img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seventeenman&theme=nord_dark' width='280px'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seventeenman&layout=compact&hide=css,scss,javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
