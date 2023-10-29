@@ -7,7 +7,7 @@ Redteamer && CTFer && Student
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seventeenman&layout=compact&hide=css,scss,javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-没发项目就是在脱产研究或者干活。
+没发项目就是在脱产研究或者干活，很多项目不会放github，不定时发项目。
 
 [Blog Of SEVENTEEN](https://seventeenman.github.io/)
 
